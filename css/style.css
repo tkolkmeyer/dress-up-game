@@ -1,38 +1,38 @@
 .container {
-    border-style: solid 1px red;
+    border: 1px solid red;
 }
 
 .background {
     display: flex;
-    border-style: solid 1px red;
+    border: 1px solid red;
 }
 
 .hair {
     display: flex;
-    border-style: solid 1px red;
+    border: 1px solid red;
 }
 
 .body {
     display: flex;
-    border-style: solid 1px red;
+    border: 1px solid red;
 }
 
 .top {
     display: flex;
-    border-style: solid 1px red;
+    border: 1px solid red;
 }
 
 .bottoms {
     display: flex;
-    border-style: solid 1px red;
+    border: 1px solid red;
 }
 
 .full-fit {
     display: flex;
-    border-style: solid 1px red;
+    border: 1px solid red;
 }
 
 .shoes {
     display: flex;
-    border-style: 1px red;
+    border: 1px solid red;
 }
