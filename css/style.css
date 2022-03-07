@@ -1,3 +1,31 @@
 .container {
     border: 1px purple;
 }
+
+.background {
+    display: flex;
+}
+
+.hair {
+    display: flex;
+}
+
+.body {
+    display: flex;
+}
+
+.shoes {
+    display: flex;
+}
+
+.top {
+    display: flex;
+}
+
+.bottoms {
+    display: flex;
+}
+
+.full-fit {
+    display: flex;
+}
